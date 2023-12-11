@@ -7,56 +7,56 @@
 <table>
 <tbody>
   <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" height="50" />
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" height="30" />
     </td>
-    <td align="center" width="90">
-      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+    <td align="center" width="70">
+      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />
     </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" height="50" />
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" height="30" />
     </td>
-    <td align="center" width="90">
-      <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
+    <td align="center" width="70">
+      <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="30" />
     </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" height="50" />
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" height="30" />
     </td>
     <!--     <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="50" />
     </td> -->
   </tr>
   <tr>
-    <td align="center" width="90">React</td>
-    <td align="center" width="90">JavaScript</td>
-    <td align="center" width="90">HTML</td>
-    <td align="center" width="90">Sass</td>
-    <td align="center" width="90">Webpack</td>
+    <td align="center" width="70">React</td>
+    <td align="center" width="70">JavaScript</td>
+    <td align="center" width="70">HTML</td>
+    <td align="center" width="70">Sass</td>
+    <td align="center" width="70">Webpack</td>
     <!--     <td align="center" width="90">Redux</td> -->
   </tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
+    <td align="center" width="70">
+      <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="30" />
     </td>
-    <td align="center" width="90">
-     <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+    <td align="center" width="70">
+     <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30" />
     </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" height="50" />
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" height="30" />
     </td>
-    <td align="center" width="90">
+    <td align="center" width="70">
       <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
     </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" height="50" />
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" height="30" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="90">NextJS</td>
-    <td align="center" width="90">TypeScript</td>
-    <td align="center" width="90">CSS</td>
-    <td align="center" width="90">Figma</td>
-    <td align="center" width="90">Vite</td>
+    <td align="center" width="70">NextJS</td>
+    <td align="center" width="70">TypeScript</td>
+    <td align="center" width="70">CSS</td>
+    <td align="center" width="70">Figma</td>
+    <td align="center" width="70">Vite</td>
   </tr>
 </tbody>
 </table>

@@ -2,7 +2,9 @@
 <h3 align="center">frontend developer</h3>
 
 - 🦖 currently learning Redux Toolkit
-- 🦕 you can contact me via telegram https://t.me/apapaw or by mail anestheziia@gmail.com
+- 🦦 you can contact me via telegram https://t.me/apapaw or by mail anestheziia@gmail.com
+- 🐝 i like coding, playing video games and walking through the ecotrails
+
 #### 🧰 toolbox:
 <table>
 <tbody>

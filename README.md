@@ -3,7 +3,7 @@
 
 - 🦖 currently learning Redux Toolkit
 - 🦦 you can contact me via telegram https://t.me/apapaw or by mail anestheziia@gmail.com
-- 🐝 i like coding, playing video games and walking through the ecotrails
+- 🐝 i like coding, playing video games and eco-trails
 
 #### 🧰 toolbox:
 <table>

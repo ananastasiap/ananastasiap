@@ -1,9 +1,8 @@
 <h2 align="center">hi, i'm nastya 👾</h1>
 <h3 align="center">frontend developer</h3>
 
-- 🦖 currently learning Redux Toolkit
-- 🦦 you can contact me via telegram https://t.me/apapaw or by mail anestheziia@gmail.com
-- 🐝 i like coding, playing video games and eco-trails
+- 🦖 you can contact me via telegram https://t.me/apapaw or by mail anestheziia@gmail.com
+- 🐝 i like eco-trails, coding and playing video games
 
 #### 🧰 toolbox:
 <table>
